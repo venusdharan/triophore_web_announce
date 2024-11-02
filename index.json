@@ -2,5 +2,5 @@
     "announcement":"This is a test",
     "link":"https://google.co.in",
     "is_link":true,
-    "enabled":true
+    "enabled":false
 }
